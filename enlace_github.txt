@@ -1,0 +1,12 @@
+Repositorio GitHub - Proyecto Flask
+Asignatura: Programación Web
+
+
+Desarrollado por: Zaira Manríquez
+
+
+Enlace al repositorio: 
+https://github.com/Zaira-m/Proyecto_Flask_Examen_Final.git
+
+
+
